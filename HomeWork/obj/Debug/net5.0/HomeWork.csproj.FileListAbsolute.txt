@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\bin\Debug\net5.0\HomeWork.exe
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\bin\Debug\net5.0\HomeWork.deps.json
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\bin\Debug\net5.0\HomeWork.runtimeconfig.json
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\bin\Debug\net5.0\HomeWork.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\bin\Debug\net5.0\HomeWork.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\bin\Debug\net5.0\ref\HomeWork.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\bin\Debug\net5.0\HomeWork.pdb
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\obj\Debug\net5.0\HomeWork.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\obj\Debug\net5.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\obj\Debug\net5.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\obj\Debug\net5.0\HomeWork.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\obj\Debug\net5.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\obj\Debug\net5.0\HomeWork.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\obj\Debug\net5.0\ref\HomeWork.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\obj\Debug\net5.0\HomeWork.pdb
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\29.11.2021\HomeWork\HomeWork\obj\Debug\net5.0\HomeWork.genruntimeconfig.cache
